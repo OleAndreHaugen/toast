@@ -9,7 +9,20 @@
 	"description": "Elegant Toast ",
 	"ver": "23.8.20.2048",
 	"enableCICD": true,
-	"apps": [],
+	"apps": [
+		{
+			"id": "8f3849bd-1e99-4098-8b5b-bac382cebc9c",
+			"application": "neptune_toast",
+			"title": "Elegant Toast Notifications",
+			"description": "Elegant Toast Notifications"
+		},
+		{
+			"id": "5b1ec25f-90bb-4f07-bf9c-8fd04e93f268",
+			"application": "demo_toast",
+			"title": "Demo - Elegant Toast Notification",
+			"description": "Demo - Elegant Toast Notification"
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],

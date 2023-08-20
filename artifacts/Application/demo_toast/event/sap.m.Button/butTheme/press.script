@@ -1,0 +1,5 @@
+if (sap.ui.getCore().getConfiguration().getTheme() === "sap_horizon") {
+    sap.ui.getCore().applyTheme("sap_horizon_dark");
+} else {
+    sap.ui.getCore().applyTheme("sap_horizon");
+}
